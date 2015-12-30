@@ -1,0 +1,32 @@
+{
+  "name": "serialized-property",
+  "description": "serialize and deserialize property",
+  "version": "0.0.1",
+  "author": "7korobi <7korobi@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7korobi/serialized-property"
+  },
+  "main": "serialized-property.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "files": [
+    "serialized-property.js"
+  ],
+  "dependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-header": "^1.7.1",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-uglify": "^1.5.1",
+    "sinon": "^1.17.2",
+    "sinon-chai": "^2.8.0"
+  }
+}
