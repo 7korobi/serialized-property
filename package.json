@@ -1,7 +1,7 @@
 {
   "name": "serialized-property",
   "description": "serialize and deserialize property",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "7korobi <7korobi@gmail.com>",
   "repository": {
     "type": "git",
@@ -15,7 +15,8 @@
     }
   ],
   "files": [
-    "serialized-property.js"
+    "serialized-property.js",
+    "serialized-property.min.js"
   ],
   "dependencies": {
     "chai": "^3.4.1",
